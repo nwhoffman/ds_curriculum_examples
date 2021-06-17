@@ -17,7 +17,7 @@ Unit 4: Natural language processing, machine learning, deep learning, artificial
 
 ## Tutorials
 
-In the `tutorials` folder, there is example written content for a single objective. Each day, a student would read and work through 2-5 objective tutorials before the guided project lecture. These tutorials are designed to be introductory and to provide example code, resources, and links to documentation that will help prepare them both the ght guided project and to complete the day's afternoon assignment.
+In the `tutorials` folder, there is example written content for a single objective. Each day, a student would read and work through 2-5 objective tutorials before the guided project lecture. These tutorials are designed to be introductory and to provide example code, resources, and links to documentation that will help prepare them both the guided project and to complete the daily afternoon assignment.
 
 ## Assessments
 
@@ -25,4 +25,4 @@ In the `assessments` folder, two example weekly assessments are included which c
 
 ## Autograded Assignments
 
-In the `autograded_assignments` folder, there are examples of the daily assignments that student were required to complete. The solution version is shown here but student would not receive the answers. They instead needed to fil in the code and then submit the notebook for automatic grading. They would receive simple automated feeback and a score on their notebook.
+In the `autograded_assignments` folder, there are examples of the daily assignments that student were required to complete. The solution version is shown here but student would not receive the answers. They instead needed to fill in the code and then submit the notebook for automatic grading. They would receive simple automated feeback and a score on their notebook.
