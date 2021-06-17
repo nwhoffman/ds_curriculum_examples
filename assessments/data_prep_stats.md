@@ -2,7 +2,7 @@
 
 Using the `pandas` library, how would you read a .csv file into a DataFrame, including an argument for the column names?
 
-*A. `pd.read_csv('filename', names=column_names)`  **(Correct)**
+* A. `pd.read_csv('filename', names=column_names)`  **(Correct)**
 * B. `pd.read_csv('filename', axis=column_names)`
 * C. `open('filename', 'r')`
 * D. `pd.read_csv('filename', axis=1)`
